@@ -1,5 +1,5 @@
-# meme-world
-An little application to manage meme image
+# Meme-world
+An little application to manage your meme image collections
 
 ## Install process for PC / Windows
 
@@ -10,14 +10,14 @@ An little application to manage meme image
 3. install visual studio 2015 (communities edition or another) **with python support (choose custom install to do so)**
 4. create a new env variable named "GYP_MSVS_VERSION" and with value "2015"
 
-### Install npm tools
+## Install npm tools
 Open a cmd console as admin and, in the root directory of the project, type  :
 
 1. ``` npm i - g node-gyp rebuild ```
 2. ``` npm i -g bower ```
 
 
-### Install project dependencies
+## Install project dependencies
 1. ``` npm i ```
 2. ``` bower i ```
 
